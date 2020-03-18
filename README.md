@@ -23,11 +23,11 @@ This application is only to present my first PWA application.
 
 ## How to use
 
-### Enter into the app with your cellphone.
+  - Enter into the app with your cellphone.
 
-### Click in a popup called "Add to my home screen" or something like that, that you appear to you.
+  - Click in a popup called "Add to my home screen" or something like that, that you appear to you.
 
-### That's it!! Use it like an app.
+  - That's it!! Use it like an app.
 
 
 
